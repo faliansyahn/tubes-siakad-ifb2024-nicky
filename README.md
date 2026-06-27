@@ -57,4 +57,5 @@ Aplikasi ini dibuat untuk memenuhi Tugas Besar mata kuliah Web II (IF53413). SIA
 
 ## Screenshots
 Ada di folder `screenshots/`
-LINK NYA: tubes-siakad-ifb2024-nicky-production-721b.up.railway.app
+LINK  HOSTING 
+NYA: tubes-siakad-ifb2024-nicky-production-721b.up.railway.app
