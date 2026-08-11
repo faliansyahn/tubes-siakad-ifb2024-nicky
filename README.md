@@ -55,6 +55,7 @@ Aplikasi ini dibuat untuk memenuhi Tugas Besar mata kuliah Web II (IF53413). SIA
 4. Jalankan `php artisan migrate:fresh --seed`
 5. Jalankan `php artisan serve`
 6. Buka `http://127.0.0.1:8000`
+7. jangan salah
 
 ---
 
