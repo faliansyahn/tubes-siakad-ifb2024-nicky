@@ -9,9 +9,7 @@ Aplikasi ini dibuat untuk memenuhi Tugas Besar mata kuliah Web II (IF53413). SIA
 ---
 
 ## Link Hosting salin aja
-<a href="https://tubes-siakad-ifb2024-nicky-production.up.railway.app" target="_blank">
-    Website SIAKAD
-</a>
+[https://tubes-siakad-ifb2024-nicky-production.up.railway.app]
 
 ## Teknologi
 - Laravel 12
